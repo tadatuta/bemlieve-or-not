@@ -1,0 +1,16 @@
+{
+  "name": "bemlieve-or-not",
+  "version": "1.0.0",
+  "description": "Believe or not about BEM",
+  "main": "alice.js",
+  "scripts": {
+    "now-start": "micro"
+  },
+  "keywords": [],
+  "author": "Vladimir Grinenko <i@tadatuta.com>",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.1.4"
+  },
+  "devDependencies": {}
+}
