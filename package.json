@@ -4,7 +4,8 @@
   "description": "Believe or not about BEM",
   "main": "alice.js",
   "scripts": {
-    "now-start": "micro"
+    "now-start": "micro",
+    "build": "echo 'build stub'"
   },
   "keywords": [],
   "author": "Vladimir Grinenko <i@tadatuta.com>",
