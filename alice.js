@@ -51,7 +51,7 @@ module.exports = async req => {
 
     if (isNewSession) {
         gameState = game.onAnswer();
-        responsePrefix = helloText + '\n';
+        responsePrefix = helloText + '\n\n';
 
         return getReplay();
     };
